@@ -9,8 +9,8 @@
       <a href="{{route('esyas.create')}}" class="cursor-pointer first:border-dashed first:border-r first:pr-3 first:border-gray-700 last:pl-2 last:text-gray-500">Eşya Ekle</a>
     </li>
     <li class="flex flex-row items-center gap-2 px-5 border border-gray-700 rounded">
-      <a href="{{route('esyas.index')}}" class="cursor-pointer first:border-dashed first:border-r first:pr-3 first:border-gray-700 last:pl-2 last:text-gray-500">Birim</a>
-      <a href="{{route('esyas.create')}}" class="cursor-pointer first:border-dashed first:border-r first:pr-3 first:border-gray-700 last:pl-2 last:text-gray-500">Birim Ekle</a>
+      <a href="{{route('birims.index')}}" class="cursor-pointer first:border-dashed first:border-r first:pr-3 first:border-gray-700 last:pl-2 last:text-gray-500">Birim</a>
+      <a href="{{route('birims.create')}}" class="cursor-pointer first:border-dashed first:border-r first:pr-3 first:border-gray-700 last:pl-2 last:text-gray-500">Birim Ekle</a>
     </li>
   </ul>
 </div>
